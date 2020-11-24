@@ -24,7 +24,7 @@ Driveに保存しておくことで、再実行やプログラムの修正が可
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-2. 実行すると認証を求められます。
+2. 実行すると認証を求められます。</br>
 ![認証画面](https://cdn-ak.f.st-hatena.com/images/fotolife/p/pytry3g/20180918/20180918194042.png "認証画面")
 
 認証画面のリンク（https://accounts.google.com~~~~）をクリックして、Googleアカウントを選択。Google Drive File Streamから許可を求められるので、許可します。
